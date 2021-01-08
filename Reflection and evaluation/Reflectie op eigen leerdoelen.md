@@ -1,8 +1,12 @@
 Reflectie op eigen leerdoelen
 
 Voor deze minor was ik de laatste student die zich nog kon inschrijven voor data science. Toen ik met begon met deze minor had ik een kleine voorkennis met programmeren, maar Python waarmee ik te werk ging was nog niet bekend voor mij. Desondanks ik een klein beetje voor kennis had was dit toch niet genoeg, maar een project lid volgt de differentiatie software engineering die kon mij vast en zeker helpen waar het nodig bij is. 
+
 Niet alleen ik had last van dat ik niet kon programmeren, maar ook heel veel andere studenten. Gelukkig heeft de school hiermee rekening gehouden, want ik moest iedere week in datacamp een aantal hoofdstukken voltooien. Al deze hoofdstukken hadden te maken met programmeren in Python. Dit moest allemaal af binnen een bepaald deadline. In totaal heb ik tien hoofdstukken moeten afmaken van datacamp, maar je kon ook meer hoofdstukken maken om je kennis te verbeteren. Dit was ook de basis voor het programmeren in Python.
+
 Naast dat ik iedere week in datacamp een aantal hoofdstukken ging afronden ging ik ook deelnemen aan hoorcolleges. Deze hoorcolleges vonden iedere maandag plaats. Hier werd iedere week uitgelegd over verschillende modellen met verschillende resultaten. Al deze informatie gaf mij meer inzicht in mijn eigen leerdoelen. Ook waren de eerste zeven weken van deze hoorcolleges toets stof. Omdat alles in het begin nieuw was kon ik nauwelijks de hoorcolleges volgen. Mijn oplossing voor dit probleem was om de hoorcolleges opnieuw te kijken. Iedere week verder snapte ik het steeds beter ik leerde een beetje bij beetje bij. 
+
 In het begin codeerde ik simpel alleen wat tabelletjes maken, dit vond ik al heel wat in het begin. Doordat ik iedere week wat bijleerde waren de resultaten steeds beter. Ik kreeg echt tabellen met grafieken. De resultaten vergeleken we de donderdagen met de twee andere projectleden die in mijn groep zat. 
+
 In het begin had ik vrij weinig idee wat ik zou moeten doen en hoe ik het zou moeten doen, maar na mate werd alles steeds duidelijker. De opdracht was voor mij helder en welke modellen ik zou moeten gebruiken was ook al duidelijk. Doordat ik de colleges terug heb bekeken snapte ik de stof daadwerkelijk, maar wat ik voor de volgende keer wel zal doen is tijdens dat ik het terug kijk een samenvatting maken. Desondanks alles heb ik veel geleerd tijdens deze periode. Het basis programmeren in Python beheers ik nu en daar ben ik harstikke tevreden mee.
 
