@@ -1,6 +1,5 @@
-##1. Gegevensonderzoek
-
-#De student heeft de gegevens, verdelingen, uitschieters, correlaties goed onderzocht en gevisualiseerd en die analyse gebruikt om aanwijzingen te geven voor een vroege hypothese
+## 1. Gegevensonderzoek
+# De student heeft de gegevens, verdelingen, uitschieters, correlaties goed onderzocht en gevisualiseerd en die analyse gebruikt om aanwijzingen te geven voor een vroege hypothese
 
 Met de eerste ontvangen data is er simpel onderzocht doormiddel van het maken van plotten hoe Python werkt. Door deze plotten hebben we een inzicht gekregen over de aantal pakketten per dag zie afbeelding. 
 
