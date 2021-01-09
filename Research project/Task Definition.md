@@ -12,7 +12,10 @@ Binnen dit onderzoek zijn er twee datasets verstrekt. Eén dataset geeft 6 klant
 
 Hoe kunnen we als projectgroep daadwerkelijk ervoor zorgen dat PostNL machine learning modellen toepast om te voorspellen hoeveel pakketten er voor de volgende dag verwerkt moet worden? Dit is onderverdeeld in vier vragen:
 •	Wat zijn de meest gangbare machine learning modellen voor het voorspellen van tijdsreeksen.
+
 •	Welke modellen zijn het best toepasbaar op de gegeven data.
+
 •	Welke data kan worden gebruikt voor het verbeteren van de voorspellingen
+
 •	Hoe betrouwbaar zijn de voorspellingen van de eerder gekozen modellen
 
