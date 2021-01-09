@@ -13,3 +13,4 @@ data = data.set_index(data.procesdag, drop=True)
 data = data['2016-01-01':'2020-01-01']
 ```
 
+zie [afbeelding](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/afbeeldingen/filteren%20289.PNG) voor de resultaat.
