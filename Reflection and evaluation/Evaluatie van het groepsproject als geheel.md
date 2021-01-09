@@ -1,1 +1,12 @@
+Evaluatie van het groepsproject als geheel
+
+Ik ben als laatste bij deze minor aangemeld. Ik wist totaal niet met wie ik in de klas zat. Toen ik ook voor het eerst les had op de Haagse Hogeschool kwam ik erachter dat de groep in 2 groepen verdeeld was. Dat voor in verband met die Covid-19. Eénmaal les te hebben gehad werd de groep verdeeld onder projectgroepjes. Omdat ik later aansloot in de groep kon ik niet kiezen in welke groepje ik kon horen, dus werd ik in de Parcel groep verdeeld. Ik kwam hier een oude klasgenoot tegen dat was wel fijn, omdat ik voor de rest niemand kende. Na de eerste les heb ik ook meteen met mijn projectgroepje kennis gemaakt met Tim de projecteigenaar.
+
+In het begin was de taak van mij project nog niet helemaal duidelijk. Ik en mijn projectgroepje wisten nog niet helemaal hoe we te werk moesten gaan, maar na wat uitleg van docenten en Tim werd alles steeds duidelijker. Ik en mijn projectgroepje wisten nou welke modellen we moesten gebruiken. Voor iedere ochtend om half 10 hebben we met elkaar afgesproken om een korte daily stand-up te houden. En iedere vrijdag houden we een retrospective. 
+
+In het begin kende we elkaar haas niet. Dit zorgde denk ik voor een beetje verlegenheid als ik wat wou vragen. Omdat we iedere ochtend daily stand-ups hielden leerde ik steeds iedereen beter kennen. Ook zag ik en de andere projectleden waarmee iedereen bezig was. Tijdens de retrospective leerde ik wat iedereen leuk en wat minder leuk vond tijdens die week. Halverwege project hebben we de groep onderverdeeld onder twee groepen. Hierdoor konden we onderling makkelijker communiceren. 
+
+Met de resultaten van de daily stand-ups was ik zeer te vrede mee. Hier werd duidelijk waar iemand tegen aan botste en wat iemand had gedaan en wat hij/zij zou doen. Toen we de groep onder twee groepjes hadden verdeeld boekten we steeds betere resultaten volgens mij. Ook tijdens de retrospective kwamen er mooi resultaten naar voren. Hier zag ik wat iedereen leuk en minder leuk vond. 
+
+In het begin was volgens mij iedereen een beetje verlegen, maar met de dag werd alles wat normaler. Persoonlijk vond ik dit een belangrijk punt. Dit hielp mij om meer vragen te stellen aan de groepsleden. Al met al was dit een leuk groepsproject waar ik veel heb geleerd en leuken mensen heb leren kennen. Wat ik voor de volgende keer wel zou doen is een keer fysiek afspreken met de projectgroep, zodat ik en de rest elkaar beter leert kennen.
 
