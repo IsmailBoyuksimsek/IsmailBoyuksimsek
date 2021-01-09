@@ -11,6 +11,8 @@ Om ervoor te zorgen dat de organisatie beter kan anticiperen op onverwachte situ
 Binnen dit onderzoek zijn er twee datasets verstrekt. Eén dataset geeft 6 klanten weer en bij de tweede dataset wordt er gefocust op 300 geanonimiseerde organisaties die hun logistiek bij PostNL regelen. De modellen binnen dit onderzoek zullen gecreëerd worden aan de hand van (de tweede) verkregen dataset uit een recente periode van 2 januari 2015 tot en met 29 april 2020. Bij een aantal organisaties begint de data pas vanaf 2016 en soms zelfs 2017, dat komt doordat die organisaties zich later hebben aangesloten bij PostNL. Ook wordt er binnen dit onderzoek alleen gericht op het voorspellen van het aantal pakketten voor de eerstvolgende dag.
 
 Hoe kunnen we als projectgroep daadwerkelijk ervoor zorgen dat PostNL machine learning modellen toepast om te voorspellen hoeveel pakketten er voor de volgende dag verwerkt moet worden? Dit is onderverdeeld in vier vragen:
+
+
 •	Wat zijn de meest gangbare machine learning modellen voor het voorspellen van tijdsreeksen.
 
 •	Welke modellen zijn het best toepasbaar op de gegeven data.
