@@ -29,3 +29,17 @@ Om inzicht te krijgen hoe precies data science werkt heb ik als eerst de basis v
 #### 7. [Manipulating DataFrames with pandas](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/DataCamp/Manipulating%20DataFrames%20with%20pandas.pdf)
 #### 8. [Data Types for Data Science in Python](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/DataCamp/Data%20Types%20for%20Data%20Science%20in%20Python.pdf)
 #### 9  [Cleaning Data in Python](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/DataCamp/Cleaning%20Data%20in%20Python.pdf)
+
+## Reflection and evaluation
+Voor het reflecteren voor het eigen bijdragen voor het groep, eigen leerdoelen en groepproject geheel heb ik gebruik gemaakt van de STARR methode hierin vertel ik stapsgewijs de situatie, taak, aanpak, resultaat en refelectie van het project. Zie link voor de verslagen:
+#### 1. [Reflection on own contribution to the project](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/Reflection%20and%20evaluation/reflectie%20op%20eigen%20bijdrage%20aan%20het%20project.md)
+#### 2. [Reflection on own learning objectives](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/Reflection%20and%20evaluation/Reflectie%20op%20eigen%20leerdoelen.md)
+#### 3. [Evaluation on the group project as a whole](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/Reflection%20and%20evaluation/Evaluatie%20van%20het%20groepsproject%20als%20geheel.md)
+
+## Research Project
+In deze gedeelte van het opdracht word de opdracht omschrijving, evulatia, conclusie en planning weergegeven. Zie link voor de uitwerkingen:
+#### 1. [Task definition](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/Research%20project/Task%20Definition.md)
+#### 2. [Evaluation](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/Research%20project/Evaluation.md)
+#### 3. [Conclusions](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/Research%20project/Conclusion.md)
+#### 4. [Planning](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/Research%20project/Planning.md)
+
