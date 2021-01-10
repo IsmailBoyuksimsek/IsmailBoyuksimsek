@@ -1,6 +1,4 @@
-4. Planning
-
-De planning voor dit project
+# 4. Planning
 
 De planning voor dit project kan worden opgedeeld in 2 delen. De eerste gedeelde is er een globale planning. Dit is bedoeld om een algemeen overzicht te creëren van hoe het project is opgezet. Bij de tweede gedeelde bestaat de planning ook nog uit een wekelijkse planning, die wij op een soort scrum manier willen gaan uitvoeren
 Een scrum proces is onderverdeeld in een aantal activiteiten. De meeste van ons projectgroepje was nog niet helemaal bekend met scrum, daarom hebben we ervoor gekozen om niet alle activiteiten die bij scrum horen toe te passen. Voor het scrum proces hebben wij de volgende activiteiten aangehouden:
