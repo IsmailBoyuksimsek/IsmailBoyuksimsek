@@ -1,4 +1,4 @@
-Reflectie op eigen leerdoelen
+# 2. Reflectie op eigen leerdoelen
 
 Voor deze minor was ik de laatste student die zich nog kon inschrijven voor data science. Toen ik met begon met deze minor had ik een kleine voorkennis met programmeren, maar Python waarmee ik te werk ging was nog niet bekend voor mij. Desondanks ik een klein beetje voor kennis had was dit toch niet genoeg, maar een project lid volgt de differentiatie software engineering die kon mij vast en zeker helpen waar het nodig bij is. 
 
