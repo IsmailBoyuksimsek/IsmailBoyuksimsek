@@ -1,4 +1,4 @@
-Evaluatie van het groepsproject als geheel
+# 3. Evaluatie van het groepsproject als geheel
 
 Ik ben als laatste bij deze minor aangemeld. Ik wist totaal niet met wie ik in de klas zat. Toen ik ook voor het eerst les had op de Haagse Hogeschool kwam ik erachter dat de groep in 2 groepen verdeeld was. Dat voor in verband met die Covid-19. Eénmaal les te hebben gehad werd de groep verdeeld onder projectgroepjes. Omdat ik later aansloot in de groep kon ik niet kiezen in welke groepje ik kon horen, dus werd ik in de Parcel groep verdeeld. Ik kwam hier een oude klasgenoot tegen dat was wel fijn, omdat ik voor de rest niemand kende. Na de eerste les heb ik ook meteen met mijn projectgroepje kennis gemaakt met Tim de projecteigenaar.
 
