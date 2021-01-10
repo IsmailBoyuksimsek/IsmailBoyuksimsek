@@ -1,4 +1,4 @@
-# 1.reflectie op eigen bijdage van het project
+# 1. reflectie op eigen bijdage van het project
 
 De eerste week van het project heb ik meteen met mijn opdrachtgever fysiek ontmoet. Tijdens deze ontmoeting heeft mijn opdrachtgever genaamd Tim kort uitgelegd waarover het project gaat en wat de bedoeling daarvan is. De opdracht van dit project was om aan de hand van 5 jarige data voorspellingen te doen voor de volgende dag.
 
