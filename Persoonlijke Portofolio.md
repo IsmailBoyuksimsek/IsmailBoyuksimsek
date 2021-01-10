@@ -17,3 +17,15 @@ Na het volgen van een heel semester voor de minor Applied Data Science heb ik ee
 #### 5. [Domain knowledge](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/tree/main/Domain%20Knowledge)
 #### 6. [Data preprocessing](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/tree/main/Data%20preprocessing)
 #### 7. [Communication](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/tree/main/presentatie)
+
+## DataCamp Course
+Om inzicht te krijgen hoe precies data science werkt heb ik als eerst de basis van het coderen geleerd. Dit heb ik geleerd door middel van de volgende hoofdstukken te maken op datacamp: 
+#### 1. [Introduction to Python](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/DataCamp/Introduction%20to%20Python.pdf)
+#### 2. [Intermediate Python](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/DataCamp/Intermediate%20Python.pdf)
+#### 3. [Python Data Science Toolbox (Part 1)](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/DataCamp/Python%20Data%20Science%20Toolbox%20(part1).pdf)
+#### 4. [Python Data Scuebce Toolbox (Part 2)](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/DataCamp/Python%20Data%20Science%20Toolbox%20(Part%202).pdf)
+#### 5. [pandas Foundations](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/DataCamp/pandas%20Foundations.pdf)
+#### 6. [Introduction to Data Visualization in Python](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/DataCamp/Introduction%20to%20Data%20Visualization%20in%20Python.pdf)
+#### 7. [Manipulating DataFrames with pandas](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/DataCamp/Manipulating%20DataFrames%20with%20pandas.pdf)
+#### 8. [Data Types for Data Science in Python](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/DataCamp/Data%20Types%20for%20Data%20Science%20in%20Python.pdf)
+#### 9  [Cleaning Data in Python](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/DataCamp/Cleaning%20Data%20in%20Python.pdf)
