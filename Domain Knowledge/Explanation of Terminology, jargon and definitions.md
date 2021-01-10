@@ -2,7 +2,7 @@
 de volgende begrippen zijn all belangrijke en relevante terminologie, jargon en defienties van datascience. Voor deze begrippen heb ik deze [bron](http://www.datascienceglossary.org/) gebruikt. 
 
 
-### Data Science:
+##### Data Science:
 
 Een interdisciplinair onderzoeksveld met betrekking tot wetenschappelijke methoden, processen en systemen om kennis en inzichten te onttrekken uit (zowel gestructureerde als ongestructureerde) data . 
 
