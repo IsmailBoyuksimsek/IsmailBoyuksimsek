@@ -1,6 +1,6 @@
-1. Taakomschrijving
+# 1. Taakomschrijving
 
-Duidelijk omschreven context (reden en probleemstelling) en onderzoeksvragen die in een gegeven context redelijk zijn
+### Duidelijk omschreven context (reden en probleemstelling) en onderzoeksvragen die in een gegeven context redelijk zijn
 
 PostNL is een dienstverlener in post en e-commerce gerelateerde zaken. Hoewel de organisatie vooral bekend staat als postbezorgingsorganisatie, doet het veel meer dan alleen het afhandelen van post. Zo biedt de organisatie ook allerlei diensten en producten voor e-commerce processen, waaronder verschillende API’s (application programming interface) en web services, die klanten dienen te helpen met het verwerken van hun klantgegevens. Betreft het verwerken van pakketten, heeft de organisatie te maken met een uiterst complex proces waarbij dagelijks duizenden pakketten en brieven verzonden, gesorteerd en afgeleverd moeten worden.
 
