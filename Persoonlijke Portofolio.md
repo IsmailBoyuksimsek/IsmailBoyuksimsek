@@ -7,3 +7,4 @@
 #### Docenten: Tony Andrioli, Gerda in ’t Veld, Jeroen Vuurens, Brain Keijzer en Ruud Vermeij
 
 ## Introductie
+Na het volgen van een heel semester voor de minor Applied Data Science heb ik een persoonlijke portofolie gemaakt. In deze portofolio zal ik uitleggen over mijn project die ik uitgevoerd heb met mijn projectgroepje. Het doel van het project waarin ik zat was om de pakketten voor de volgende voor PostNL te voorspellen. Dit deed ik in het project genaamd Parcel. Samen met vijf andere studenten heb ik dit gerealiseerd. 
