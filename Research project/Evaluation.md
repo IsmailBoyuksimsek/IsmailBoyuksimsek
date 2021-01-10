@@ -1,6 +1,6 @@
 # 2. Evaluation
 
-Na een traject van een half jaar heb ik de opgestelde hoofd -en deelvragen kunnen beantwoorden met mijn projectgroepje. De hoofdvraag was
+Na een traject van een half jaar heb ik de opgestelde hoofd -en deelvragen kunnen beantwoorden met mijn projectgroepje. De hoofdvraag was:
 
 •	Hoe kan PostNL machine learning modellen toe passen, om te voorspellen hoeveel pakketten er voor de volgende dag verwerkt moeten worden
 
