@@ -29,5 +29,6 @@ Deze onderzoek heb ik gedaan aan de hand met de volgende lijst:
 25.	https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
 26.	https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/
 27. https://www.dataquest.io/blog/data-science-glossary/
+28. https://www.springboard.com/blog/data-science-terms/
 
 
