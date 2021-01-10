@@ -28,5 +28,6 @@ Deze onderzoek heb ik gedaan aan de hand met de volgende lijst:
 24.	https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
 25.	https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
 26.	https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/
+27. https://www.dataquest.io/blog/data-science-glossary/
 
 
