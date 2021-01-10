@@ -13,7 +13,7 @@ Om een overzicht te hebben wat we allemaal hebben gedaan en wat we allemaal moet
 
 Sprintplanning/back log refinement:
 
-Iedere begin van de week houden we een sprint planning. Dit doen we om de back log aan te vullen met taken. De taken, die we van plan zijn om voor de week te doen, dienen vervolgens in de kolom: “te doen” gezet te worden. Deze taken horen duidelijk te zijn, zodat elk teamlid begrijpt wat deze taken inhouden. Daarom dient elke taak (binnen het Trellobord) aan een aantal eisen te voldoen. Deze eisen zijn: 
+Iedere begin van de week houden we een sprint planning in [trello](https://trello.com/b/FeZrC28Y/trello-bord-parcel). Dit doen we om de back log aan te vullen met taken. De taken, die we van plan zijn om voor de week te doen, dienen vervolgens in de kolom: “te doen” gezet te worden. Deze taken horen duidelijk te zijn, zodat elk teamlid begrijpt wat deze taken inhouden. Daarom dient elke taak (binnen het Trellobord) aan een aantal eisen te voldoen. Deze eisen zijn: 
 o	Elke taak heeft een beknopte titel. 
 o	Elke taak heeft een relevante beschrijving. 
 o	Elke taak heeft een doel, waarvan het belang beargumenteerd kan worden door elk groepslid. 
@@ -26,5 +26,5 @@ We beginnen elke ochtend om 09:30 met een daily stand-up. Hierbij vertelt iedere
 
 Sprint review/retrospective:
 
-Iedere vrijdag van de week houden we een retrospective en sprint review. De sprint review/retrospective zijn twee aparte activiteiten, maar wij hebben ervoor gekozen om ze samen te voegen tot één activiteit. Tijdens deze meeting bespreken we wat we hebben opgeleverd, dit is het review gedeelde. De retrospective houden we via de retro metro tool. Hier krijgen we een inzicht in de 4l’s (Liked/Learned/Lacked/Longed for) wat iedereen heeft ervaren tijdens deze week.
+Iedere vrijdag van de week houden we een retrospective en sprint review. De sprint review/retrospective zijn twee aparte activiteiten, maar wij hebben ervoor gekozen om ze samen te voegen tot één activiteit. Tijdens deze meeting bespreken we wat we hebben opgeleverd, dit is het review gedeelde. De retrospective houden we via de [retro metro tool](https://metroretro.io/). Hier krijgen we een inzicht in de 4l’s (Liked/Learned/Lacked/Longed for) wat iedereen heeft ervaren tijdens deze week.
 
