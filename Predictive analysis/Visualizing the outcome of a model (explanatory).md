@@ -1,1 +1,4 @@
+# Visualizing the outcome of a model (explanatory)
+
+Nadat er met verschillende modellen is geexperimenteerd, is er gekozen dat SARIMA als eindmodel wordt gebruikt. In deze [afbeelding](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/afbeeldingen/TRAIN%2CVALIDEER.PNG) is te zien wat de resultaat van het trainen, valideren en testen is. Na dit is de test resultaat gevisualiseerd, er is gekeken naar de verschillende uitkomsten met verschillende modellen hier zien we de beste [eindresultaat](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/afbeeldingen/train%2Cvalideerd%20en%20test%20SARIMA.PNG) van het [SARIMA model](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/python%20codes/SARIMA%20klant%20289.ipynb). De gele lijn is de voorspelling en de blauwe lijn is het werkelijke data.
 
