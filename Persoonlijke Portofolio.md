@@ -44,7 +44,7 @@ In deze gedeelte van het opdracht word de opdracht omschrijving, evulatia, concl
 #### 4. [Planning](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/Research%20project/Planning.md)
 
 ## Predictive Analytics
-.....
+In feze gedeelte van het opdacht wordt uitgelegd hoe een model word geselecteer, configureerd, getrain, evauleerd en tot slot hoe de uitkomst wordt gevisualiseerd.
 #### 1. [Selecting a Model](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/Predictive%20analysis/Selecting%20a%20Model.md)
 #### 2. [Configuring a Model](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/Predictive%20analysis/Configuring%20a%20Model.md)
 #### 3. [Training a model](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/Predictive%20analysis/Training%20a%20model.md)
@@ -52,13 +52,13 @@ In deze gedeelte van het opdracht word de opdracht omschrijving, evulatia, concl
 #### 5. [Visualizing the outcome of a model (explanatory)](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/Predictive%20analysis/Visualizing%20the%20outcome%20of%20a%20model%20(explanatory).md)
 
 ## Domain knowledge
-In deze gedeelte van de opdracht wordt het vakgebied, litratuurlijs en jargon defenitie's omschreven. Zie link voor de uitwerkingen:
+In deze gedeelte van het opdracht wordt het vakgebied, litratuurlijs en jargon defenitie's omschreven. Zie link voor de uitwerkingen:
 #### 1. [Introduction of the subject field](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/Domain%20Knowledge/Introduction%20of%20the%20subject%20field.md)
 #### 2. [Literature research](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/Domain%20Knowledge/Literature%20research.md)
 #### 4. [Explanation of Terminology, jargon and definitions](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/Domain%20Knowledge/Explanation%20of%20Terminology%2C%20jargon%20and%20definitions.md)
 
 ## Data preprocessing
-
+In deze gedeelte van het opdracht wordt er uitgelegd wat de inhoud van de data is, hoe het word verwerkt en tot slot hoe het wordt gevisualiseerd.
 #### 1. [Data exploration](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/Data%20preprocessing/Data%20Exploration.md)
 #### 2. [Data cleansing](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/Data%20preprocessing/Data%20Cleansing.md)
 #### 3. [Data preparation](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/Data%20preprocessing/Data%20Preparation.md)
@@ -66,7 +66,7 @@ In deze gedeelte van de opdracht wordt het vakgebied, litratuurlijs en jargon de
 #### 5. [Data visualization (exploratory)](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/Data%20preprocessing/Data%20visualization%20(exploratory).md)
 
 ## Communication
-
+In deze gedeelte van het opdracht is te zien welke weken ik een presentatie heb gegeven en wat mijn bijdragen is voor de gezamelijke paper.
 #### 1. [Presentation week 2](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/presentatie/Presentatie%20week%202.pdf)
 #### 2. [Presentation week 9](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/presentatie/ppt%20week%209.pdf)
 #### 3. [Writing Paper](https://github.com/IsmailBoyuksimsek/IsmailBoyuksimsek/blob/main/presentatie/Writing%20Paper.md)
